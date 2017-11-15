@@ -20,7 +20,7 @@ plugins: [
           resolve: 'gatsby-remark-graph',
           options: {
             // this is the language in your code-block that triggers mermaid parsing
-            language: 'graph' // default
+            language: 'mermaid' // default
           }
         }
       ]
