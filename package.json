@@ -14,5 +14,14 @@
     "graph",
     "mermaid",
     "remark"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konsumer/gatsby-remark-graph.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konsumer/gatsby-remark-graph/issues"
+  },
+  "homepage": "https://github.com/konsumer/gatsby-remark-graph#readme"
 }
