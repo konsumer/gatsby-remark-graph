@@ -33,7 +33,7 @@ Make sure you put it before other plugins (especially those that work with `code
 
 ### Usage in Markdown
 
-    ```graph
+    ```mermaid
     graph LR
         A[Square Rect] -- Link text --> B((Circle))
         A --> C(Round Rect)
