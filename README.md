@@ -53,6 +53,10 @@ Make sure you put it before other plugins (especially those that work with `code
         C --> D
     ```
 
+Will give you a graph that looks like this:
+
+![diagram](graph.svg)
+
 ### styling
 
 My blog is dark, so I used a white background to make graphs stand out:
