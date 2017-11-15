@@ -29,18 +29,6 @@ plugins: [
 ]
 ```
 
-Now you need to add a script tag. I like to do this with [Helmet](https://github.com/nfl/react-helmet) in `src/layouts/index.js`:
-
-```js
-import Helmet from 'react-helmet'
-
-// ... later in layout component:
-<Helmet>
-  <title>Home | {data.site.siteMetadata.title}</title>
-  <script src='https://unpkg.com/mermaid@7.1.0/dist/mermaid.min.js' />
-</Helmet>
-```
-
 Make sure you put it before other plugins (especially those that work with `code` blocks, like [prism](https://www.gatsbyjs.org/packages/gatsby-remark-prismjs/).)
 
 ### Usage in Markdown
