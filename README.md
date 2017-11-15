@@ -55,7 +55,7 @@ Make sure you put it before other plugins (especially those that work with `code
 
 Will give you a graph that looks like this:
 
-![diagram](graph.svg)
+![diagram](graph.png)
 
 ### styling
 
