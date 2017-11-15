@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-graph",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Make nice graphs in your markdown files in gatsbyjs, using mermaid",
   "author": "David Konsumer <konsumer@jetboystudio.com> (http://konsumer.js.org)",
   "license": "MIT",
