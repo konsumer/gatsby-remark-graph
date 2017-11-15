@@ -45,14 +45,3 @@ Make sure you put it before other plugins (especially those that work with `code
 Will give you a graph that looks like this:
 
 ![diagram](graph.png)
-
-### styling
-
-My blog is dark, so I used a white background to make graphs stand out:
-
-```css
-.mermaid > svg {
-  background: #fff;
-  width: auto;
-}
-```
