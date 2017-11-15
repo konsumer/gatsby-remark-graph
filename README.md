@@ -4,7 +4,7 @@ Make nice graphs in your markdown files in gatsbyjs, using [mermaid](https://mer
 
 ## install
 
-'npm install --save gatsby-transformer-remark gatsby-remark-graph'
+`npm install --save gatsby-transformer-remark gatsby-remark-graph`
 
 
 ## How to use
