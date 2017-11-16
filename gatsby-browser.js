@@ -12,5 +12,5 @@ exports.onRouteUpdate = ({ location }) => {
     if (window.mermaid) {
       window.mermaid.init(undefined, document.getElementsByClassName('mermaid'))
     }
-  }, 0)
+  }, 100)
 }
