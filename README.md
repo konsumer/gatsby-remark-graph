@@ -2,7 +2,7 @@
 
 Make nice graphs in your markdown files in gatsbyjs, using [mermaid](https://mermaidjs.github.io/).
 
-[Here](https://remark-graph-demo.netlify.com/) is a basic demo, which also uses my [starter template](https://github.com/konsumer/gatsby-starter-bootstrap-netlify/).
+[Here](https://remark-graph-demo.netlify.com/graphdemo) is a basic demo, which also uses my [starter template](https://github.com/konsumer/gatsby-starter-bootstrap-netlify/).
 
 ## install
 
