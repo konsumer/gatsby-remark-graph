@@ -1,5 +1,7 @@
 # gatsby-remark-graph
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/konsumer/gatsby-remark-graph.svg)](https://greenkeeper.io/)
+
 Make nice graphs in your markdown files in gatsbyjs, using [mermaid](https://mermaidjs.github.io/).
 
 [Here](https://remark-graph-demo.netlify.com/graphdemo) is a basic demo, which also uses my [starter template](https://github.com/konsumer/gatsby-starter-bootstrap-netlify/).
