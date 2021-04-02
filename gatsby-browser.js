@@ -5,7 +5,9 @@ exports.onInitialClientRender = function(n, config) {
   s.setAttribute('src', 'https://unpkg.com/mermaid@8.5.2/dist/mermaid.min.js')
   document.head.appendChild(s)
   // XXX: ugly hack because onRouteUpdate doesn't know when the react is done
-  setInterval(function() {
-    window.mermaid.init(undefined, document.getElementsByClassName('mermaid'))
-  }, 200)
+  const init = () => {
+    if(window.mermaid) window.mermaid.init(undefined, document.getElementsByClassName('mermaid'));
+    else setInterval(init, 200)
+  }
+  init();
 }
